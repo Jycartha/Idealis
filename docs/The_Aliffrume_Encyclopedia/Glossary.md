@@ -130,7 +130,8 @@ I.e.
 
 ### Hearth
 Noun.  
-Among [firekeepers](Intuitive%20Phenomena%20&%20Theory/Firekeeping/Firekeeper.md), a gathering place.
+1. A physical enclosure made of [ichor](Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md), intended to support [plane projection](Intuitive%20Phenomena%20&%20Theory/Soulfire/Plane%20Projection.md).
+2. Among [firekeepers](Intuitive%20Phenomena%20&%20Theory/Firekeeping/Firekeeper.md), a gathering place.
 
 ### Conscious Waves
 Noun.  

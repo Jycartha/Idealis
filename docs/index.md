@@ -51,6 +51,9 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## Changelog
 :::
+- **5/2/2026**
+	- Came back to life for a bit
+	- Clarified some terminology in [Plane Projection](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Plane%20Projection.md), including adding a definition to [Hearth](The_Aliffrume_Encyclopedia/Glossary.md#Hearth).
 - **4/24/2026**
 	- Began work on [Phlogistic Computing](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Phlogistic%20Computing.md)
 - **4/23/2026**
