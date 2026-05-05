@@ -51,6 +51,11 @@ footer: <a href="https://untilthengame.com/" target="_blank" rel="noopener noref
 ::: center
 ## Changelog
 :::
+- **5/5/2026**
+	- Updated links in [Global History](The_Aliffrume_Encyclopedia/Chronology/Global%20History.md)
+	- Added [Engrammatic Density](The_Aliffrume_Encyclopedia/Glossary.md#Engrammatic%20Density) to the glossay
+	- Added a list of specific techniques to [Firekeeping](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Applied%20Phlogistics/Firekeeping.md)
+	- Clarified some wording in [Coupling](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Interactions/Coupling.md)
 - **5/2/2026**
 	- Came back to life for a bit
 	- Clarified some terminology in [Plane Projection](The_Aliffrume_Encyclopedia/Intuitive%20Phenomena%20&%20Theory/Soulfire/Plane%20Projection.md), including adding a definition to [Hearth](The_Aliffrume_Encyclopedia/Glossary.md#Hearth).

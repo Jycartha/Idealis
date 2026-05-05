@@ -43,7 +43,7 @@ Based upon the experiences of certain [dragons](../../../Glossary.md#Dragon), it
 The soul is also capable of affecting change within the exterior conscious plane according to a propagation limit. Within the noise, any phase is mostly unable to distinguish itself from the others and thus acts essentially randomly, resulting in close to net zero curvature. A soul creates a region of self-determination, from which information and [intention](Conscious%20Plane/Intention%20Field.md) can propagate out at light speed, with intention losing intensity as it travels through the noise.
 
 ## Refinement
-Despite the generally positive connotation of the term “refinement,” in phlogistics it serves as a catch-all term for reformations of the soul. This includes the original process named as such, the reforging of postnatal fireborn, and the corruption of soul-possessing beings into [shades](../Soulfire/Shade.md).
+Despite the generally positive connotation of the term “refinement,” in phlogistics it serves as a catch-all term for reformations of the soul. This includes the original process named as such, the reforging of postnatal fireborn, and the corruption of soul-possessing beings into [shades](../../../Glossary.md#Shade).
 
 ### Engrammatic Density
 The original process, which gave the category its name, involves maintaining a sufficiently high soulfire production state with significant alignment for some length of time. If successful, and often accidental, the spinning soulfire will reach a critical point before collapsing down onto the soul, perfectly merging with it and granting the soul a higher engrammatic density. 

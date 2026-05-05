@@ -10,6 +10,16 @@ All firekeeping begins with the generation of [soulfire](../Pure%20Phlogistics/S
 
 All life can control ambient [Soulfire](../Pure%20Phlogistics/Soul/Soulfire.md) and even produce its own, but sourcing it from [Gimyndine](../Soulfire/Gimyndine/Gimyndine.md) is much more potent and allows easier use when integrated with [Kindlegem](../../Technology/Kindlegem.md). This led to [Gimyndine](../Soulfire/Gimyndine/Gimyndine.md) technology and its derivatives becoming the forefront of development for centuries, and many self-sourced firekeeping techniques became relegated to folk contexts or small communities, where the usage of [Gimyndine](../Soulfire/Gimyndine/Gimyndine.md) was either impractical from extenuating circumstance, or rejected on principle.
 
+## Particular Techniques
+### Puppetry
+One of the most fundamentall skills for any [firekeeper](../../Glossary.md#Firekeeper) seeking to be effective in combat, "puppetry" in the context of firekeeping is the practice of carefully exerting consicous force on one's own body to effectively puppeteer themselves. This allows practiced individuals to generate unnatural leverage, be unaffected by paralyzing toxins, and most importantly, to produce superhuman strength.
+
+### Imaginary Surface
+
+### Hearth Construction
+
+### Open Flame
+
 ## Fields of Firekeeping
 ### Artifice
 The design of small-scale phlogistic devices, intended to be operated by a single [firekeeper](../../Glossary.md#Firekeeper). Often involves complex but low-power engrams.

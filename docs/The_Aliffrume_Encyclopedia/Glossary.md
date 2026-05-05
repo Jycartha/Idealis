@@ -57,6 +57,10 @@ Noun.
 Noun.  
 An observed property of [soulfire](Intuitive%20Phenomena%20&%20Theory/Pure%20Phlogistics/Soul/Soulfire.md), the conscious plane, [ichor](Intuitive%20Phenomena%20&%20Theory/Soulfire/Ichor.md), and other phlogistic materials. Informally referred to as "heft."
 
+### Engrammatic Density
+Noun.  
+The concentration of engrammatic mass per unit volume in phlogistic materials. An important factor in the overall "strength" of a [firekeeper](Glossary.md#Firekeeper).
+
 ### Dominion
 Noun.  
 The region of space where a given soul or other phlogistic formation has full or partial influence.

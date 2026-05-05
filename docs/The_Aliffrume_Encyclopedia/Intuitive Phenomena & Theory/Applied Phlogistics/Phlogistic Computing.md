@@ -12,6 +12,8 @@ The vast majority of phlogistic computing is based upon partitioning an arbitrar
 Notably, one's choice of honeycomb for their cell structure is essential to what programs they are able to handle, in particular the number of faces an individual cell has, and thus how many connections. Beginners employ a simple cubic honeycomb with 6 faces, while general applications typically employ a rhombic dodecahedral with 12. Highly complex programs which require even more complicated cells might even require a bitruncated cubic, with 14.
 
 ### Information Transfer
+<!--Transference of information within a phlogistic computing system typically happens in one of two ways-->
+
 ### Information Storage
 
 ## Applications
