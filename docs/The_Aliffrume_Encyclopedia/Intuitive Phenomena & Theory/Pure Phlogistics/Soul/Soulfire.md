@@ -28,9 +28,11 @@ Notably, coagulated soulfire is a necessary prerequisite for creating [ichor](..
 ## Decay
 Soulfire is observed to decay by various methods, which explains why the universe isn't currently inundated with it, given its ease of production. Chiefly, soulfire appears to gradually "unravel" as it moves from a natural impedance in the conscious plane. However, tidal forces induced by conscious waves also have a pronounced effect, as well as minuscule internal combustion.
 
+Chielfy, no matter the method, soulfire's decay is always accompanied by the emission of [sparks](../Sparks.md), which themselves will decay proportional to the phlogistic pressure of their medium, eventually into nothing. This spark emission is what gives soulfire its characteristic incandescence, which inspired its name.
+
 ## Variations
-## Soulfire Field
+### Soulfire Field
 A soulfire field is any conglomeration of uninfused soulfire, which floats around and through matter like a ghostly cloud, not interacting with any of the standard four fundamental forces. This follows naturally from the assumption that uninfused soulfire inhabits the conscious plane. These fields are also generated passively by all living things as a consequence (or prerequisite) of cognition, dubbed a “halo,” and can cause harm if too intensive. Some non-sapient species are capable of harnessing their halo with special chemicals to produce metabolic energy.
 
-## Gimynfire
+### Gimynfire
 Soulfire produced by gimyndine; often “sharp,” discomforting, and somewhat repulsive.
